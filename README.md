@@ -4,6 +4,8 @@ Night has started to fall as you reach the marketplace described in the scroll. 
 
 ![Marketplace](./images/marketplace.png)
 
+---
+
 An hour passes, then another. You wonder how you're ever going to find the orb described in the scroll when the soft glow emanating from an unassuming shelf catches your eye.
 
 The shopkeeper notices your curiosity and invites you to take a closer look at his wares. Among them there are some that seem out of place, even among all the other oddities that you have seen until now. But your attention is focused on one of the items at the back of their stall - a large orb that glows in a faint blue light. As you consult the parchment detailing your task, you are certain of it - this is the orb that houses the illustrations accompanying Podrick's story. Vital information like this must not be left of of your reconstruction. You must have that orb!
